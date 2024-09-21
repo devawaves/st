@@ -5,45 +5,45 @@ Xft.hintstyle:	hintslight
 Xft.rgba:	rgb
 Xft.lcdfilter:	lcddefault
 
-st.font:         JetBrainsMono Nerd Font:style:medium:pixelsize=13
+st.font:         Monaspace Argon :style:medium:pixelsize=15
 
 ! window padding
-st.borderpx: 20
+! st.borderpx: 20
 
 !- 0.1 to 0.9 = transparency
 st.alpha: 1.0
 
-*background: #181f21
-*foreground: #dadada
+*background: #151b21
+*foreground: #b0b0b0
 
 ! Black + DarkGrey
-*color0:  #22292b
-*color8:  #575e60
+*color0:  #151b21
+*color8:  #42484e
 
 ! DarkRed + Red
-*color1:  #e06e6e
-*color9:  #ef7d7d
+*color1:  #ac8a8c
+*color9:  #c9938a
 
 ! DarkGreen + Green
-*color2:  #8ccf7e
-*color10: #9bdead
+*color2:  #8aac8b
+*color10: #9ec49f
 
 ! DarkYellow + Yellow
-*color3:  #e5c76b
-*color11: #f4d67a
+*color3:  #aca98a
+*color11: #c4c19e
 
 ! DarkBlue + Blue
-*color4:  #67b0e8
-*color12: #6cb5ed
+*color4: #6b8bab
+*color12:  #7797b7
 
 ! DarkMagenta + Magenta
-*color5:  #c47fd5
-*color13: #ce89df
+*color5:  #8f8aac
+*color13: #a39ec4
 
 ! DarkCyan + Cyan
-*color6:  #6da4cd
-*color14: #67cbe7
+*color6:  #7c9cbc
+*color14: #9aafe6
 
 ! LightGrey + White
-*color7:  #b3b9b8
-*color15: #bdc3c2
+*color7:  #565c62
+*color15: #b0b0b0

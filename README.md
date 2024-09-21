@@ -1,4 +1,4 @@
-# St (Suckless Terminal)
+# St (Suckless Terminal) (based on siduck's st)
 
 ## Xresources live-reload demo
 
